@@ -1,0 +1,9 @@
+c:\users\david dueñas\source\repos\ConvertedJSON\bin\Debug\ConvertedJSON.exe.config
+c:\users\david dueñas\source\repos\ConvertedJSON\bin\Debug\ConvertedJSON.exe
+c:\users\david dueñas\source\repos\ConvertedJSON\bin\Debug\ConvertedJSON.pdb
+c:\users\david dueñas\source\repos\ConvertedJSON\bin\Debug\MySql.Data.dll
+c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.csprojResolveAssemblyReference.cache
+c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.csproj.CoreCompileInputs.cache
+c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.csproj.CopyComplete
+c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.exe
+c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.pdb
