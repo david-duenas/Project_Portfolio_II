@@ -1,0 +1,9 @@
+c:\users\david dueñas\source\repos\timetracker\bin\Debug\timetracker.exe.config
+c:\users\david dueñas\source\repos\timetracker\bin\Debug\timetracker.exe
+c:\users\david dueñas\source\repos\timetracker\bin\Debug\timetracker.pdb
+c:\users\david dueñas\source\repos\timetracker\bin\Debug\MySql.Data.dll
+c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.csprojResolveAssemblyReference.cache
+c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.csproj.CoreCompileInputs.cache
+c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.csproj.CopyComplete
+c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.exe
+c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.pdb
