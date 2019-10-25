@@ -55,5 +55,13 @@ namespace timetracker
         {
             Console.WriteLine("");
         }
+
+        public static void LogMenu()
+        {
+            Console.WriteLine("1. Back");
+            Console.WriteLine("2. Main Menu");
+
+
+        }
     }
 }

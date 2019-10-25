@@ -277,6 +277,7 @@ namespace timetracker
                     {
                         Console.Clear();
                         Console.WriteLine(Header.ShowHeader());
+                        datalog:
                         Menu.TrackedDataLog();
 
                         input = Console.ReadLine();
@@ -396,6 +397,25 @@ namespace timetracker
                                         conn.Close();
 
 
+                                        Menu.LogMenu();
+                                        input = Console.ReadLine();
+                                        int.TryParse(input, out inputNum);
+
+                                        switch (inputNum)
+                                        {
+                                            case 1:
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(Header.ShowHeader());
+                                                    goto datalog;
+
+                                                }
+                                            case 2:
+                                                {
+                                                    goto mainMenu;
+                                                }
+
+                                        }
 
 
                                     }
@@ -514,6 +534,27 @@ namespace timetracker
                                         conn.Close();
                                     }
 
+                                    Menu.LogMenu();
+                                    input = Console.ReadLine();
+                                    int.TryParse(input, out inputNum);
+
+                                    switch (inputNum)
+                                    {
+                                        case 1:
+                                            {
+                                                Console.Clear();
+                                                Console.WriteLine(Header.ShowHeader());
+                                                goto datalog;
+
+                                            }
+                                        case 2:
+                                            {
+                                                goto mainMenu;
+                                            }
+
+                                    }
+
+
                                 }
                                 break;
                             case 3:
@@ -628,11 +669,35 @@ namespace timetracker
 
                                         }
                                         conn.Close();
+
+                                        Menu.LogMenu();
+                                        input = Console.ReadLine();
+                                        int.TryParse(input, out inputNum);
+
+                                        switch (inputNum)
+                                        {
+                                            case 1:
+                                                {
+                                                    Console.Clear();
+                                                    Console.WriteLine(Header.ShowHeader());
+                                                    goto datalog;
+
+                                                }
+                                            case 2:
+                                                {
+                                                    goto mainMenu;
+                                                }
+
+                                        }
                                     }
                                     break;
+
                                 }
+
                         }
+
                     }
+
                     break;
                 case 3:
                     {
@@ -649,9 +714,4 @@ namespace timetracker
 
     }
 }
-
-
-
-
-
 
