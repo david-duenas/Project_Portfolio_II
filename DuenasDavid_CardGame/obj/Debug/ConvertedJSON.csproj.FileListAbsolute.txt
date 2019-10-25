@@ -7,3 +7,11 @@ c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.csproj
 c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.csproj.CopyComplete
 c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.exe
 c:\users\david dueñas\source\repos\ConvertedJSON\obj\Debug\ConvertedJSON.pdb
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\bin\Debug\ConvertedJSON.exe.config
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\bin\Debug\ConvertedJSON.exe
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\bin\Debug\ConvertedJSON.pdb
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\obj\Debug\ConvertedJSON.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\obj\Debug\ConvertedJSON.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\obj\Debug\ConvertedJSON.csproj.CopyComplete
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\obj\Debug\ConvertedJSON.exe
+\\vmware-host\Shared Folders\Documents\GitHub\Project_Portfolio_II\DuenasDavid_CardGame\obj\Debug\ConvertedJSON.pdb

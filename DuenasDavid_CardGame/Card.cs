@@ -20,15 +20,17 @@ namespace ConvertedJSON
             face = cardFace;
             suit = cardSuit;
             points = cardPoints;
-         
 
+
+            
+            
         }
      
         
         public static void TotalPoints()
         {
-  
 
+            
                 
 
 
@@ -38,7 +40,7 @@ namespace ConvertedJSON
 
         public override string ToString()
         {
-            return face + " of " + suit + " | " + points + " points.";
+            return face + " of " + suit + " | " + points + " points." ;
             
         }
 

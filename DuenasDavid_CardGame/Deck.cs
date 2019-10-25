@@ -29,17 +29,18 @@ namespace ConvertedJSON
             deck = new Card[NumberOfCards];
             currentCard = 0;
             randomNumber = new Random();
-            string totalPoints;
+
 
             for (int counter = 0; counter < deck.Length; counter++)
                 deck[counter] = new Card(faces[counter % 11], suits[counter / 13], points[counter % 11]);
 
-            
 
 
 
-            
-          
+
+
+
+
         }
  
 

@@ -393,7 +393,7 @@ namespace ConvertedJSON
 
                                                 }
 
-                                                
+
                                             }
                                         }
 
@@ -402,9 +402,9 @@ namespace ConvertedJSON
                                             Console.WriteLine("Exception Occured:" + ex.ToString());
                                         }
 
-                                     
+
                                     }
-                                    
+
                                     break;
                                 case "3":
                                 case "sort restaurants from best to worst":
