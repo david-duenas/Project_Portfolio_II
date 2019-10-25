@@ -7,3 +7,11 @@ c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.csproj.Cor
 c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.csproj.CopyComplete
 c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.exe
 c:\users\david dueñas\source\repos\timetracker\obj\Debug\timetracker.pdb
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\obj\Debug\timetracker.csprojResolveAssemblyReference.cache
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\obj\Debug\timetracker.csproj.CoreCompileInputs.cache
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\obj\Debug\timetracker.exe
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\obj\Debug\timetracker.pdb
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\bin\Debug\timetracker.exe.config
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\bin\Debug\timetracker.exe
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\bin\Debug\timetracker.pdb
+Z:\dizzy On My Mac\Documents\GitHub\Project_Portfolio_II\Duenas_David_Timetracker_codefiles\obj\Debug\timetracker.csproj.CopyComplete
